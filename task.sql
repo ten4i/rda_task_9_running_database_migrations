@@ -39,6 +39,7 @@ CREATE TABLE ProductInventory (
 );
 --rollback DROP TABLE ProductInventory;
 
+-- DB rollbac
 --changeset mate.acamemy:5 labels:0.0.2
 CREATE TABLE Users (
     ID INT,
